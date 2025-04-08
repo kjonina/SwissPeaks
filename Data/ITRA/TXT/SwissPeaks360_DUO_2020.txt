@@ -1,0 +1,19 @@
+#	Runner	Time	Age	Gender	Nationality
+1	 SAVIOZZI Francesco	111:39:07	42	M	 ITA
+1	 VILLANI Marcello	111:39:07	47	M	 ITA
+3	 LUCAK Celine	115:24:04	51	F	 FRA
+3	 LUCAK Herve	115:24:04	53	M	 FRA
+5	 FAUVARQUE Gaetan	116:43:52	44	M	 NZL
+5	 fauvarque Thierry	116:43:52	49	M	 FRA
+7	 ARLOT Christophe	121:41:43	55	M	 FRA
+7	 DORNE Franck	121:41:43	56	M	 FRA
+9	 Roser Gael	130:01:41	44	M	 FRA
+9	 THIRIET Fabien	130:01:41	37	M	 FRA
+11	 MORISOLI Mauro	132:05:50	55	M	 SUI
+11	 PERRET MORISOLI Annouk	132:05:50	46	F	 SUI
+DNF	 BERTHOU Vincent		54	M	 FRA
+DNF	 BINDER Hubert		52	M	 FRA
+DNF	 BINDER Marie		50	F	 FRA
+DNF	 BRAGA Andrea		32	M	 FRA
+DNF	 Krumm Tobias		43	M	 GER
+DNF	 WARLICH Anke		40	F	 GER

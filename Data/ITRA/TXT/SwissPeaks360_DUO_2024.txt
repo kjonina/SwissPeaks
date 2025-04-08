@@ -1,0 +1,19 @@
+#	Runner	Time	Age	Gender	Nationality
+1	 Laenen Maxim	124:59:44	34	M	 BEL
+1	 VANDERMOLEN Sebastiaan	124:59:44	44	M	 BEL
+3	 GRUFFAZ Corinne	134:14:40	51	F	 FRA
+3	 PAPILLON Fabrice	134:14:40	50	M	 FRA
+5	 CHARVET Cedric	134:47:23	46	M	 FRA
+5	 DAVID Sougey Lardin	134:47:23	49	M	 FRA
+7	 CHAILLET Olivier	142:44:53	56	M	 FRA
+7	 Walrave Timothee	142:44:53	39	M	 FRA
+9	 Leroy Jordan	143:45:41	37	M	 BEL
+9	 LEROY Matthew	143:45:41	34	M	 BEL
+11	 Fletgen Carole	146:56:41	48	F	 FRA
+11	 GUEX Marc Andre	146:56:41	58	M	 SUI
+13	 KUOTOLA Sampo	147:19:46	39	M	 FIN
+13	 PIRHONEN Pasi	147:19:46	44	M	 FIN
+15	 ALONSO Ruben	148:43:49	50	M	 ESP
+15	 SANTIAGO Juan Caros	148:43:49	60	M	 ESP
+17	 CHUNG Pak Hang	151:27:00	52	M	 HKG
+17	 Li Mui Chun	151:27:00	55	F	 HKG
