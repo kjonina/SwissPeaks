@@ -1,4 +1,4 @@
-#	Runner	Time	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 Calais Louis	81:36:03	28	M	 FRA
 2	 Dell oro Andrea	83:46:08	33	M	 ITA
 3	 GALVE SAINZ DE VARANDA Jorge	92:33:52	38	M	 ESP

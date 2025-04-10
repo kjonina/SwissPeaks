@@ -1,5 +1,5 @@
-#	Runner	Time	Age	Gender	Nationality
-1	 BOHARD Patrick	86:23:00	54	M	 FRA
+#	Name	Time	Age	Gender	Nationality
+1	 BOHARD Patrick	86:23:00	54	M	FRA
 2	 BOURGUIGNON Matthieu	91:13:00	39	M	 FRA
 3	 NANCOZ Michael	96:34:00	30	M	 SUI
 4	 CLEMENT Benoit	100:06:00	51	M	 SUI

@@ -1,4 +1,4 @@
-#	Runner	Time	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 Kienzl Peter	86:34:28	46	M	 ITA
 2	 NANCOZ Michael	93:51:22	33	M	 SUI
 3	 SPOERING Hendrik	99:18:46	31	M	 GBR

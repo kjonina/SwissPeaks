@@ -1,4 +1,4 @@
-#	Runner	Time	Race Score	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 RODRIGUEZ BANARES Jose Manuel	98:03:00	43	M	 ESP
 1	 RODRIGUEZ BANARES Mario	98:03:00	43	M	 ESP
 3	 MARTIN LOSADA Javier	128:59:54	44	M	 ESP

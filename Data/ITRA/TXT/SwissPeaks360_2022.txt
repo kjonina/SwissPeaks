@@ -1,4 +1,4 @@
-#	Runner	Time	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 REYNOLDS Galen	85:51:26	38	M	 CAN
 2	 iino Wataru	86:38:46	43	M	 JPN
 3	 GALVE Javier	86:56:01	40	M	 ESP

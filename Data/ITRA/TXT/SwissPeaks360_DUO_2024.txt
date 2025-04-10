@@ -1,5 +1,5 @@
-#	Runner	Time	Age	Gender	Nationality
-1	 Laenen Maxim	124:59:44	34	M	 BEL
+#	Name	Time	Age	Gender	Nationality
+1	 Laenen Maxim	124:59:44	34	M	BEL
 1	 VANDERMOLEN Sebastiaan	124:59:44	44	M	 BEL
 3	 GRUFFAZ Corinne	134:14:40	51	F	 FRA
 3	 PAPILLON Fabrice	134:14:40	50	M	 FRA

@@ -1,4 +1,4 @@
-#	Runner	Time	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 BILLET Jean Marc	121:23:41	39	M	 FRA
 1	 PASSAQUAY Florian	121:23:41	36	M	 FRA
 3	 ESPIE Laurent	124:29:27	52	M	 FRA

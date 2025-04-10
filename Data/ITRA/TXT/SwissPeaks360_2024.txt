@@ -1,5 +1,5 @@
-#	Runner	Time	Age	Gender	Nationality
-1	 COLLISON Kim	87:09:32	44	M	 GBR
+#	Name	Time	Age	Gender	Nationality
+1	 COLLISON Kim	87:09:32	44	 M	 GBR
 2	 BOURGUIGNON Matthieu	98:00:06	45	M	 FRA
 3	 BARBIER Adrien	100:20:57	35	M	 FRA
 3	 GALVE SAINZ DE VARANDA Jorge	100:20:57	39	M	 ESP

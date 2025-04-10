@@ -1,4 +1,4 @@
-#	Runner	Time	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 KRSTULOVIC OPARA Daniel	104:59:58	38	M	 CRO
 1	 SPAJIC Jovica	104:59:58	36	M	 SRB
 3	 NASH Graham	127:48:14	54	M	 GBR

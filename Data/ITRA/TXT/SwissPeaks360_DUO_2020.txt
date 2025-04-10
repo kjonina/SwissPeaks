@@ -1,4 +1,4 @@
-#	Runner	Time	Age	Gender	Nationality
+#	Name	Time	Age	Gender	Nationality
 1	 SAVIOZZI Francesco	111:39:07	42	M	 ITA
 1	 VILLANI Marcello	111:39:07	47	M	 ITA
 3	 LUCAK Celine	115:24:04	51	F	 FRA
